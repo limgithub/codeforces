@@ -1,3 +1,4 @@
+import numpy as np
 
 S1 = raw_input()
 S2 = raw_input()
@@ -34,3 +35,5 @@ if len(S1) == len(S2):
 
 else:
     print -1
+
+    
